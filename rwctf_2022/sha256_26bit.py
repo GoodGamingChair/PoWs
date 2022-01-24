@@ -1,6 +1,6 @@
 """
 This is a sha256 PoW using multiprocessing.
-Made during rwctf quals 2022 flag{4lw4ys_ch3ck_h1st0ry
+Made during rwctf quals 2022
 
 the hash needed to start with 26 bits of zero
 """
